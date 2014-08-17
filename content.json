@@ -1,1 +1,24 @@
-{}
+{
+    "jaar": {
+        "selectedChoice": "2014"
+    },
+    "maand": {
+        "selectedChoice": "January"
+    },
+    "noemers_ziekenhuis": {
+        "opnames": 40,
+        "ligdagen": 80
+    },
+    "noemers_per_dienstafdeling": {
+        "intensieve_zorgen_iz": {
+            "specialiteit": {}
+        },
+        "pediatrie": {
+            "specialiteit": {}
+        },
+        "psychiatrie": {
+            "specialiteit": {}
+        },
+        "andere_dienstenafdelingen_niet_iz": []
+    }
+}
