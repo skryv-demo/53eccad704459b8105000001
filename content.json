@@ -14,13 +14,36 @@
     },
     "noemers_per_dienstafdeling": {
         "intensieve_zorgen_iz": {
-            "specialiteit": {}
+            "specialiteit": {
+                "selectedChoice": "Paediatric ICU"
+            },
+            "dienstafdeling": "a",
+            "opnames": 40,
+            "ligdagen": 80,
+            "cvc_pati‘nten": 30,
+            "pati‘nten_die_2_dagen_op_iz_blijven": 30,
+            "cvc_dagen": 60,
+            "ligdagen_voor_pati‘nten_die_2_dagen_op_iz_blijven": 60
         },
         "pediatrie": {
-            "specialiteit": {}
+            "specialiteit": {
+                "selectedChoice": "Paediatric ICU"
+            },
+            "dienstafdeling": "a",
+            "opnames": 40,
+            "ligdagen": 80,
+            "cvc_pati‘nten": 30,
+            "cvc_dagen": 60
         },
         "psychiatrie": {
-            "specialiteit": {}
+            "specialiteit": {
+                "selectedChoice": "Psychiatrics"
+            },
+            "dienstafdeling": "a",
+            "opnames": 40,
+            "ligdagen": 80,
+            "cvc_pati‘nten": 30,
+            "cvc_dagen": 60
         },
         "andere_dienstenafdelingen_niet_iz": []
     }
