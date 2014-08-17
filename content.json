@@ -7,7 +7,9 @@
     },
     "noemers_ziekenhuis": {
         "opnames": 40,
-        "ligdagen": 80
+        "ligdagen": 80,
+        "cvc_pati‘nten": 30,
+        "cvc_dagen": 60
     },
     "noemers_per_dienstafdeling": {
         "intensieve_zorgen_iz": {
